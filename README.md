@@ -88,7 +88,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Ali Amanat Ali - [aliamanatali](https://www.linkedin.com/aliamanatali) - aliamanatali218@gmail.com
+Ali Amanat Ali - [aliamanatali](https://www.linkedin.com/in/aliamanatali) - aliamanatali218@gmail.com
 
 Project Link: [https://github.com/aliamanatali/advance-calculator-js](https://github.com/aliamanatali/advance-calculator-js)
 
